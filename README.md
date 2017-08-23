@@ -1,0 +1,1 @@
+This is a Google Chrome extension which replace all G1 comments to beautiful puppy photos.

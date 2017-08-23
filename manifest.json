@@ -1,0 +1,28 @@
+{
+"manifest_version": 2,
+    "name": "Doggieradicator",
+    "description": "Replace G1 comments to beautiful puppy photos",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_start"
+        }
+    ],
+    "permissions": [
+        "*://*.g1.globo.com/*"
+    ],
+    "browser_action":{
+        "default_icon": "32.png"
+     },
+     "icons": { 
+        "128": "128.png",
+        "16": "16.png",
+        "64": "64.png"
+     }
+}
