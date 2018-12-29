@@ -1,8 +1,8 @@
 {
 "manifest_version": 2,
     "name": "Doggieradicator",
-    "description": "Replace G1 comments to beautiful puppy photos",
-    "version": "1.1",
+    "description": "Substitua os comentários do G1 em fotos aleatórias de cachorros",
+    "version": "1.2",
     "content_scripts": [
         {
             "matches": [

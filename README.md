@@ -1,5 +1,5 @@
 ## Doggieradicator
-This is a Google Chrome extension which replace all G1 comments to beautiful puppy photos.
+Uma extensão do Google que permite que você substitua os comentários do G1 em fotos aleatórias de cachorros.
 
 ### Version 1.1
 Download: https://chrome.google.com/webstore/detail/doggieradicator/afnmoghknejnchdbaccokjilkaljjfde
