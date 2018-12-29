@@ -2,7 +2,7 @@
 "manifest_version": 2,
     "name": "Doggieradicator",
     "description": "Substitua os comentários do G1 em fotos aleatórias de cachorros",
-    "version": "1.2",
+    "version": "1.1.3",
     "content_scripts": [
         {
             "matches": [
